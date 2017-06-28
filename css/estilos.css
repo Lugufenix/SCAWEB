@@ -1,0 +1,87 @@
+body {
+	background-image:url(../resources/images/back.png);
+	background-size: 100vw 100vh;
+	background-attachment:fixed;
+	margin: 0;
+	width: 100%;
+    height: 400px;
+	background-repeat: no-repeat;
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	
+	}
+
+form {
+	width: 450px;
+	margin:auto;
+	background: rgba(0,0,0,0.4);
+	padding: 10px 20px;
+	box-sizing:border-box;
+	margin-top: 20px;
+	border-radius: 20px;
+	
+}
+
+h2 {
+	color:#F4F4F4;
+	text-align:center;
+	margin: 0;
+	font-size: 20px;
+	margin-bottom: 10px;
+	margin-top:10px;
+		
+}
+
+h1 {
+	color:#F4F4F4;
+	text-align:center;
+	margin: 0;
+	font-size: 15px;
+	margin-bottom: 40px;
+	margin-top:5px;
+		
+}
+
+input, textarea {
+	width:100%;
+	margin-bottom:20px;
+	padding:7px;
+	box-sizing:border-box;
+	font-size:17px;
+}
+
+textarea {
+	min-height:100px;
+	max-height:200px;
+	max-width:100%;
+	}
+
+#fecha {
+	font-family:Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+	font-size:17px;
+	color:#C2C2C2;
+     }
+#area {
+	width:100%;
+	margin-bottom:20px;
+	padding:7px;
+	box-sizing:border-box;
+	font-size:17px;
+	  }
+
+#boton {
+	background:#31384a;
+	color:#ffffff;
+	padding:20px;
+}
+
+#boton:hover {
+	cursor: pointer;
+	background:#AAAAAA;
+	}
+	
+@media (max-width:480px) {
+	form {
+		width:100%; 
+	}
+
+}
