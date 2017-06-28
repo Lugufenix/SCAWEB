@@ -28,6 +28,8 @@ if (isset($_POST["area"]) && isset($_POST["ticket"])){
 	echo "alert('El numero de ticket ha sido registrado con exito');";  
 	echo "window.location = 'main.html';";
 	echo "</script>";
+				
+			
 }
 //print_r($_POST["fecha"]);		
 ?>
