@@ -3,9 +3,9 @@ Formulario de Registro de Actividades HERRAMIENTAS WEB.
 
 Requerimentos
 ------------------
-1.Sistema operativo Windows de 32 bits.
-2.Espacio de memoria minimo de 10MB.
-3.XAMPP (Apache y Mysql).
+1. Sistema operativo Windows de 32 bits.
+2. Espacio de memoria minimo de 10MB.
+3. XAMPP (Apache y Mysql).
 
 
 Instalación
